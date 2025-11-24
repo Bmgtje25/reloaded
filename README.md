@@ -1,3 +1,3 @@
 # Reloaded
 
-This is a mod maxe for the Reloaded server owned by Appelsappie.
+This is a mod made for the Reloaded server owned by Appelsappie.
