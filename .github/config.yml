@@ -1,0 +1,23 @@
+# config.yml
+
+# Weergegeven wanneer een gebruiker op 'New issue' klikt en de templates ziet.
+blank_issues_enabled: false
+
+# Als blank_issues_enabled op false staat, kunnen gebruikers geen leeg (ongestructureerd) issue aanmaken.
+# Als ze proberen dit te doen, zien ze een bericht.
+
+contact_links:
+  # Link 1: Voor algemene discussies en community-vragen
+  - name: 💬 Community Support Forum
+    url: https://github.com/jouw-organisatie/jouw-repo/discussions
+    about: Stel algemene vragen, bespreek ideeën en vind ondersteuning van de community.
+
+  # Link 2: Voor urgente en gevoelige beveiligingsproblemen
+  - name: 🔒 Meld een Beveiligingsprobleem
+    url: https://github.com/jouw-organisatie/jouw-repo/security/policy
+    about: Meld gevoelige beveiligingsproblemen privé aan de onderhouders.
+
+  # Link 3 (Optioneel): Externe documentatie of FAQ
+  # - name: 📖 Documentatie & FAQ
+  #   url: https://jouw-documentatie-url.com/
+  #   about: Vind antwoorden op veelgestelde vragen in onze documentatie.
