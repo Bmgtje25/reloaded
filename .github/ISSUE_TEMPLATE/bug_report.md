@@ -3,7 +3,7 @@ name: 🐛 Bug Report
 about: Meld een fout of onverwacht gedrag om ons te helpen het project te verbeteren.
 title: "[BUG] Korte en duidelijke beschrijving van de fout"
 labels: bug, needs-triage
-assignees: @bmgtje25
+assignees:
 ---
 
 ### 🐞 Beschrijving van de Bug
